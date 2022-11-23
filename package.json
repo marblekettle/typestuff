@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "name": "typestuff",
+  "description": "Typescript: What's the worst that can happen?",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marblekettle/typestuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marblekettle/typestuff/issues"
+  },
+  "homepage": "https://github.com/marblekettle/typestuff#readme"
+}
